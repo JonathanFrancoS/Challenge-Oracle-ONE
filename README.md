@@ -29,7 +29,7 @@
 Se integro en el programa un extra para sorprender al cliente, que consiste en un conversor de temperatura el cual transforma en las diferentes unidades de medida de temperatura Celsius, Kelvin y Fahrenheit.
 
 <h4 align="center">
-:construction_worker::construction: Aun nos faltan mejoras, pero ya tenemos un entregable :construction::construction_worker:
+:construction_worker::construction: Aun nos faltan mejoras, pero ya tenemos un entregable! :construction::construction_worker:
 </h4>
 
 <h4 align="center">
