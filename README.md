@@ -1,5 +1,5 @@
 <h1 align="center"> Challenge ONEBack End - Java </h1>
-<H4 align="center"> Eureka! La Solución al desafio </h4>
+<H4 align="center"> :bulb: Eureka! La Solución al desafio :bulb: </h4>
 
 ## El siguiente programa es presentado como solución al primer desafío presentado por Alura One, en donde el cliente solicita hacer el cambio de una moneda local a diferentes divisas como en el siguiente ejemplo
 
