@@ -26,7 +26,7 @@ Eureka! La Solución al desafio
 
 ###### Aquí podemos ver un ejemplo de como seria el resultado final de nuestro aplicativo: 
 
-![Conversor de moneda]("https://pasteboard.co/6ZgWLeC6b6T2.gif")
+![Conversor de moneda](/imagen/ProgramaAlura.gif)
 
 Se integro en el programa un extra para sorprender al cliente, que consiste en un conversor de temperatura el cual transforma en las diferentes unidades de medida de temperatura Celsius, Kelvin y Fahrenheit.
 
