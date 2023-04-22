@@ -31,7 +31,7 @@ Eureka! La Solución al desafio
 Se integro en el programa un extra para sorprender al cliente, que consiste en un conversor de temperatura el cual transforma en las diferentes unidades de medida de temperatura Celsius, Kelvin y Fahrenheit.
 
 <h4 align="center">
-:construction: Aun nos faltan mejoras, pero ya tenemos un entregables :construction:
+:construction: Aun nos faltan mejoras, pero ya tenemos un entregable :construction:
 </h4>
 
 <h4 align="center">
